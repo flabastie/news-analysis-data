@@ -1,0 +1,4 @@
+scrapy_projects/lemonde_covid/config.json
+transform_projects/config.json
+scrapy_projects/lemonde_covid/__pycache__
+transform_projects/__pycache__
